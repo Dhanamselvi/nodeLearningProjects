@@ -18,3 +18,7 @@
             In window --> It is part of the browswer
             In node   --> It is one part of the node super powers
 
+# Exports and Require
+        # If we use require we can load the the file
+        # It we need to access the function and variables we need to exports the module
+
