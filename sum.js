@@ -1,6 +1,5 @@
-
 function sum(x, y) {
-    console.log(x + y);
+  console.log(x + y);
 }
 
 const x = 10;
