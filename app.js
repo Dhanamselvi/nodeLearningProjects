@@ -1,8 +1,10 @@
+require('./xyz');
+const { sum, x } = require('./sum');
+
 const a = 10;
 const b = 20;
 
-console.log(a + b);
+sum(a, b);
+console.log(x);
 
-console.log(globalThis)
 console.log(globalThis === global) // true
-console.log(this)          
